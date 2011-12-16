@@ -14,7 +14,7 @@ La seconde consiste à cloner un dépôt Git existant sur un autre serveur.
 
 ### Initialisation d'un dépôt Git dans un répertoire existant ###
 
-Si vous commencer à suivre un projet existant dans Git, vous n'avez qu'à vous positionner dans le répertoire du projet et saisir
+Si vous commencez à suivre un projet existant dans Git, vous n'avez qu'à vous positionner dans le répertoire du projet et saisir
 
 	$ git init
 
